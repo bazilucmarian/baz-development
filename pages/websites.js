@@ -9,13 +9,6 @@ import Typography from "@material-ui/core/Typography";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import Hidden from "@material-ui/core/hidden";
 
-// import backArrow from "../../assets/backArrow.svg";
-// import forwardArrow from "../../assets/forwardArrow.svg";
-// import analytics from "../../assets/analytics.svg";
-// import seo from "../../assets/seo.svg";
-// import outreach from "../../assets/outreach.svg";
-// import eccomerce from "../../assets/ecommerce.svg";
-
 import CallToAction from "../src/ui/CallToAction";
 
 const useStyles = makeStyles((theme) => ({
