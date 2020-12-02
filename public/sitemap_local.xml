@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://baz.com/about</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/contactUs</loc>
+    <lastmod>2020-11-30</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/customSoftware</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/estimate</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/mobileApps</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/revolution</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/servicesPage</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>,<url>
+    <loc>https://baz.com/websites</loc>
+    <lastmod>2020-12-02</lastmod>
+  </url>
+</urlset>
